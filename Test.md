@@ -3,7 +3,3 @@
 Hello world!
 
 > Test
-
-| titre | Détail |
-
----
